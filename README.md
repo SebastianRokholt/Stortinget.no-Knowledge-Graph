@@ -6,4 +6,4 @@ The project group consists of three UiB students: [Fredrik Bjerk Marveng](https:
 
 The aim of this project is to create a knowledge graph based on lawmaker propositions to the Norwegian Parlament (Stortinget), with 
 the end goal of connecting the graph to UiB's existing [NewsAngler](https://www.uib.no/infomedia/114138/news-angler-discovering-unexpected-connections-news) research project. 
-The data will be lifted semantically from the website Stortinget.no.
+The data will be lifted semantically from the website [Stortinget.no](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker).
