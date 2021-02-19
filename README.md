@@ -1,4 +1,4 @@
-# INFO216 Group Project:
+# INFO216: Group Project, Spring 2021
 ## <i>Creating a Knowledge Graph for Bill Propositions to the Norwegian Parliament (Stortinget)</i>
 
 This repository contains code and other resources for a group project in the UiB course INFO216: Knowledge Graphs. 
